@@ -115,7 +115,7 @@ Identify, prioritize, and propose remediation actions for high-risk vulnerabilit
 
 ## POA&M Example
 
-![POA&M Screenshot](poam_example.png)
+![POA&M Screenshot](poam_example.xlsx)
 
 **Fields:** Vulnerability ID • Severity • System Affected • Recommended Fix • Owner • Target Date • Status
 
@@ -123,7 +123,7 @@ Identify, prioritize, and propose remediation actions for high-risk vulnerabilit
 
 ## 📈 Risk Visualization
 
-![Risk Chart](risk_chart.png)
+![Risk Chart](risk_chart.xlsx)
 
 ---
 
