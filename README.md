@@ -115,7 +115,7 @@ Identify, prioritize, and propose remediation actions for high-risk vulnerabilit
 
 ## POA&M Example
 
-![POA&M Screenshot](poam_example.xlsx)
+[Download POA&M Excel File](poam_example.xlsx)
 
 **Fields:** Vulnerability ID • Severity • System Affected • Recommended Fix • Owner • Target Date • Status
 
