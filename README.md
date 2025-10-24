@@ -187,7 +187,7 @@ No decoding needed. After normalizing: `/level/15/exec/-/sh/run/CR`
 **Splunk Findings:**
 - 208 events associated with `45.155.91.226`
 - Filtering for Cisco reduced to **19 events**
-![Splunk findings](Splunk54570.png)
+![Splunk findings](Investigations/Splunk54570.png)
   
 **Raw Suricata Data Sample:**
 ```json
