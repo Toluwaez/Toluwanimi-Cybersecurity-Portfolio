@@ -66,7 +66,7 @@ Identify, prioritize, and propose remediation actions for high-risk vulnerabilit
 |------|--------------|
 | `tenable_mock_report.pdf` | Sample anonymized Tenable scan report |
 | `risk_chart.png` | Visualization of critical/high/medium/low risk distribution |
-| `poam_example.png` | Sample Plan of Action & Milestones (POA&M) summary |
+| `poam_example.png.xlsx` | Sample Plan of Action & Milestones (POA&M) summary |
 
 ---
 
