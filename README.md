@@ -1,2 +1,10 @@
-# Toluwanimi-Cybersecurity-Portfolio
-Hi, I’m Toluwanimi — I’m an IT and Cybersecurity professional with experience in vulnerability management and SOC operations. I’ve worked with tools like Tenable, Splunk, and Cortex Xpanse to support enterprise security posture. I’m looking to connect with teams working on threat detection, cloud security, or automation.
+# 👋🏾 Hi, I’m Toluwanimi
+
+I’m a cybersecurity and IT professional passionate about using technology to protect and empower people.  
+Currently exploring SOC automation, threat detection, and vulnerability management.  
+On this page, you’ll find projects related to:
+- Security monitoring and log analysis
+- Python automation for incident response
+- Network and vulnerability management
+- Cloud security and compliance insights
+
