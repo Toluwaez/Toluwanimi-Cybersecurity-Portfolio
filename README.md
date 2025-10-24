@@ -123,7 +123,7 @@ Identify, prioritize, and propose remediation actions for high-risk vulnerabilit
 
 ## 📈 Risk Visualization
 
-![Risk Chart](risk_chart.xlsx)
+![Risk Chart](risk_chart.png)
 
 ---
 
